@@ -1,5 +1,5 @@
 {
-"build": "crust-rush-v204",
+"build": "crust-rush-v205",
 "files": [
 "geo/concept_hq.702ecf66ed.bin",
 "geo/endur_hq.6f5c034a43.bin",
@@ -46,6 +46,8 @@
 "geo/toy_kstool_hq.c0ad2a60e3.bin",
 "geo/toy_ktable_hq.4c7d113a06.bin",
 "geo/toy_kwallcab_hq.480056cf6d.bin",
+"geo/toy_mshop_hq.ff55537a08.bin",
+"geo/toy_mshopdoor_hq.fd48645d0e.bin",
 "geo/toy_nightstand_hq.3d0d4f40c7.bin",
 "geo/toy_rug_hq.a2835ec06c.bin",
 "geo/toy_sball_hq.0ecf8c9137.bin",
