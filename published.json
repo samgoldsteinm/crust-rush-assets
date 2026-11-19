@@ -1,5 +1,5 @@
 {
-"build": "crust-rush-v243",
+"build": "crust-rush-v244",
 "files": [
 "geo/biome_hq.f8ee79dbdc.bin",
 "geo/comet_hq.6351a3523e.bin",
@@ -14,7 +14,7 @@
 "geo/interceptor_hq.bbe6d3dea2.bin",
 "geo/megagt_hq.ae361f2901.bin",
 "geo/megawatt_hq.ac66d8b934.bin",
-"geo/nighttank_hq.3b4fca30aa.bin",
+"geo/nighttank_hq.5f80a62b8d.bin",
 "geo/oilcan_hq.a7ef00870d.bin",
 "geo/retrogt_hq.9aec1eca61.bin",
 "geo/rollpin_hq.f20aac029d.bin",
