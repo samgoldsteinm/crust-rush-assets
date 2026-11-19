@@ -1,6 +1,7 @@
 {
-"build": "crust-rush-v238",
+"build": "crust-rush-v239",
 "files": [
+"geo/biome_hq.f8ee79dbdc.bin",
 "geo/comet_hq.6351a3523e.bin",
 "geo/concept_hq.702ecf66ed.bin",
 "geo/endur_hq.2205cccf08.bin",
@@ -16,9 +17,11 @@
 "geo/oilcan_hq.a7ef00870d.bin",
 "geo/retrogt_hq.9aec1eca61.bin",
 "geo/rollpin_hq.f20aac029d.bin",
+"geo/scarlet_hq.0fc5250763.bin",
 "geo/scissor_hq.63f6af8737.bin",
 "geo/skywing_hq.271cfd1e92.bin",
 "geo/slip_hq.ca0087ddf3.bin",
+"geo/surge_hq.82c34008c6.bin",
 "geo/suv_hq.67baa948eb.bin",
 "geo/tourer_hq.6a5a22f4db.bin",
 "geo/toy_bbbins_hq.6d145c651e.bin",
@@ -72,6 +75,7 @@
 "geo/toy_ytuft_hq.c9e396033c.bin",
 "geo/toy_ywash_hq.309a988d78.bin",
 "geo/toy_ywcan_hq.56cab9beb3.bin",
+"geo/vortex_hq.774ccc1b18.bin",
 "tex/sky_anime.590aabd5d9.jpg",
 "tex/sky_beach.d899e80210.jpg",
 "tex/sky_cave.7ed938e790.jpg",
