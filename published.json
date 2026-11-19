@@ -1,5 +1,5 @@
 {
-"build": "crust-rush-v239",
+"build": "crust-rush-v240",
 "files": [
 "geo/biome_hq.f8ee79dbdc.bin",
 "geo/comet_hq.6351a3523e.bin",
@@ -21,7 +21,7 @@
 "geo/scissor_hq.63f6af8737.bin",
 "geo/skywing_hq.271cfd1e92.bin",
 "geo/slip_hq.ca0087ddf3.bin",
-"geo/surge_hq.82c34008c6.bin",
+"geo/surge_hq.8bddade923.bin",
 "geo/suv_hq.67baa948eb.bin",
 "geo/tourer_hq.6a5a22f4db.bin",
 "geo/toy_bbbins_hq.6d145c651e.bin",
